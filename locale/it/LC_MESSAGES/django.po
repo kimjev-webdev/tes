@@ -1,8 +1,5 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# English/Italian Translations for The English Studio.
+
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,20 +7,20 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-11 14:15+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Kim Piffy <piffyinfo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 #: .\templates\index.html:8
 msgid "The English Studio"
-msgstr ""
+msgstr "The English Studio"
 
 #: .\templates\index.html:31
 msgid "The English Studio Logo"
-msgstr ""
+msgstr "The English Studio Logo"
 
 #: .\templates\index.html:38
 msgid "Courses"
@@ -37,7 +34,7 @@ msgstr "Informazioni"
 msgid "Blog"
 msgstr "Blog"
 
-#: .\templates\index.html:41
+#: templates/index.html:41 templates/main/contact.html:41
 msgid "Events"
 msgstr "Eventi"
 
@@ -53,9 +50,9 @@ msgstr "Inglese"
 msgid "Italian"
 msgstr "Italiano"
 
-#: .\templates\index.html:60
+#: templates/index.html: templates/main/contact.html:
 msgid "After School Club"
-msgstr "Club Doposcuola"
+msgstr "Dopo Scuola"
 
 #: .\templates\index.html:61
 msgid "Making friends and learning English is so fun!"
@@ -95,8 +92,8 @@ msgid "Teacher"
 msgstr "Insegnante"
 
 #: .\templates\index.html:103
-msgid "I'm Leanne, nice to meet you!"
-msgstr "Sono Leanne, piacere di conoscerti!"
+msgid "Learn English with Leanne"
+msgstr "Impara l'inglese con Leanne"
 
 #: .\templates\index.html:104
 msgid ""
@@ -114,23 +111,23 @@ msgstr "Cosa Offriamo"
 
 #: .\templates\index.html:116
 msgid "AFTER SCHOOL CLUB"
-msgstr "Club Doposcuola"
+msgstr "DOPO SCUOLA"
 
 #: .\templates\index.html:117
 msgid ""
 "Come and join us after school for 90 mins of full immersion English, with "
 "our native mother tongue teacher who provides exciting and fun activities "
 "for primary school children."
-msgstr "Venite a trovarci dopo la scuola per 90 minuti di full immersion in inglese, con"
-"la nostra insegnante madrelingua che propone attività entusiasmanti e divertenti"
-"per i bambini della scuola primaria."
+msgstr "Venite a trovarci dopo la scuola per 90 minuti di full immersion in inglese,"
+"con la nostra insegnante madrelingua che offre attività stimolanti e divertenti per i bambini della scuola primaria." 
 
 #: .\templates\index.html:118
 msgid ""
 "Expose your children to the world and help them acquire fundamental language "
 "skills at a young age, preparing them for their best possible future."
-msgstr "Esponete i vostri figli al mondo e aiutateli ad acquisire competenze linguistiche fondamentali"
-"fin da piccoli, preparandoli per il loro miglior futuro possibile."
+msgstr "Esponete i vostri bambini al mondo e aiutateli ad acquisire competenze"
+"linguistiche fondamentali fin da piccoli, preparandoli per il loro futuro migliore."
+
 
 #: .\templates\index.html:119
 msgid "Price from €22/90 mins."
@@ -138,7 +135,7 @@ msgstr "Prezzo a partire da €22/90 min."
 
 #: .\templates\index.html:119
 msgid "Up to 8 children for each session."
-msgstr "Fino a 8 bambini per ogni sessione."
+msgstr "Fino a 8 bambini per sessione."
 
 #: .\templates\index.html:129
 msgid "PRIVATE ENGLISH LESSONS"
@@ -149,9 +146,9 @@ msgid ""
 "English lessons tailored to all your needs. Our professionally trained and "
 "well-experienced teacher can help you define what you are looking for and "
 "together, we can reach your goals."
-msgstr "Lezioni di inglese su misura per tutte le tue esigenze. Il nostro insegnante, qualificato e"
-"con grande esperienza, può aiutarti a definire ciò che stai cercando e, insieme,"
-"possiamo raggiungere i tuoi obiettivi."
+msgstr "Lezioni di inglese personalizzate per tutte le tue esigenze. Il nostro insegnante, qualificato e con"
+"grande esperienza, può aiutarti a definire ciò che stai cercando e, insieme, possiamo raggiungere i"
+"tuoi obiettivi."
 
 #: .\templates\index.html:131
 msgid ""
@@ -176,8 +173,8 @@ msgstr "PREPARAZIONE AL TEST IELTS"
 msgid ""
 "Specialising in IELTS test prep, learn all the tips and tricks you need in "
 "order to achieve the score of your dreams!"
-msgstr "Specializzati nella preparazione al test IELTS, scopri tutti i trucchi e i suggerimenti"
-"di cui hai bisogno per raggiungere il punteggio dei tuoi sogni!"
+msgstr "Specializzati nella preparazione al test IELTS, scopri tutti i trucchi e i consigli necessari per"
+"raggiungere il punteggio dei tuoi sogni!"
 
 #: .\templates\index.html:144
 msgid ""
@@ -185,8 +182,8 @@ msgid ""
 "through her outstanding understanding of the difficult exam and how to "
 "navigate those high band scores."
 msgstr ""
-"La nostra insegnante ha un curriculum eccellente nell'aiutare gli studenti a raggiungere i loro obiettivi grazie"
-"alla sua straordinaria comprensione di un esame difficile e di come gestire punteggi così elevati."
+"La nostra insegnante vanta un ha un'eccellente esperienza nell'aiutare gli studenti a raggiungere i loro obiettivi grazie"
+"alla sua straordinaria comprensione di questo difficile e di come gestire punteggi elevati."
 
 #: .\templates\index.html:145
 msgid "Price discussed on request."
@@ -200,7 +197,7 @@ msgstr "INGLESE COMMERCIALE"
 msgid ""
 "Available both online and in-person, finesse your Business English skills "
 "and get that promotion you’ve always dreamed of."
-msgstr "Disponibile sia online che di persona, affina le tue competenze di inglese commerciale"
+msgstr "Disponibile sia online che di persona, affina le tue competenze di Inglese Commerciale"
 "e ottieni la promozione che hai sempre sognato."
 
 #: .\templates\index.html:157
@@ -209,14 +206,13 @@ msgid ""
 "are missing out on the top opportunities if you cannot express yourself "
 "properly! Together with our teacher, we can put together a course tailored "
 "specifically for you and your needs."
-msgstr ""
-L'inglese è la lingua commerciale più parlata a livello internazionale e se"
+msgstr "L'inglese è la lingua commerciale più parlata a livello internazionale e se"
 "non riesci a esprimerti correttamente, ti stai perdendo le migliori opportunità!"
 "Insieme al nostro insegnante, possiamo creare un corso su misura per te e le tue esigenze."
 
 #: .\templates\index.html:158
 msgid "Also available in groups."
-msgstr "Disponibile anche in gruppo."
+msgstr "Disponibile anche gruppo."
 
 #: .\templates\index.html:158
 msgid "€32/60 mins"
@@ -225,3 +221,59 @@ msgstr "€32/60 min"
 #: .\templates\index.html:164
 msgid "Book Now"
 msgstr "Prenota ora"
+
+#: templates/main/contact.html:XX
+msgid "Contact Us"
+msgstr "Contattaci"
+
+#: templates/main/contact.html:XX
+msgid "Full Name"
+msgstr "Nome e Cognome"
+
+#: templates/main/contact.html:XX
+msgid "Subject"
+msgstr "Oggetto"
+
+#: templates/main/contact.html:XX
+msgid "Select an option"
+msgstr "Seleziona un'opzione"
+
+#: templates/main/contact.html:XX
+msgid "Private Lessons"
+msgstr "Lezioni Private"
+
+#: templates/main/contact.html:XX
+msgid "Business English Lessons"
+msgstr "Lezioni di Inglese Commerciale"
+
+#: templates/main/contact.html:XX
+msgid "General English Lessons"
+msgstr "Lezioni di Inglese Generale"
+
+#: templates/main/contact.html:XX
+msgid "IELTS Enquiry"
+msgstr "Richiesta per IELTS"
+
+#: templates/main/contact.html:XX
+msgid "Other"
+msgstr "Altro"
+
+#: templates/main/contact.html:XX
+msgid "Message"
+msgstr "Messaggio"
+
+#: templates/main/contact.html:XX
+msgid "Where to find us"
+msgstr "Dove trovarci"
+
+#: templates/main/contact.html:XX
+msgid "Address"
+msgstr "Indirizzo"
+
+#: templates/main/contact.html:XX
+msgid "Phone"
+msgstr "Telefono"
+
+#: templates/main/contact.html:XX
+msgid "Email"
+msgstr "Email"
