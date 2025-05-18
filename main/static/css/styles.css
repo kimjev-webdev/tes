@@ -44,7 +44,6 @@ body {
 
  .nav-link {
   display: flex !important;
-  padding: 0 !important;
   justify-content: flex-end !important;
  }
 
@@ -177,6 +176,10 @@ body {
 
   .body-text {
     font-size: 14px;
+  }
+
+  .nav-link {
+    padding: 0 !important;
   }
 }
 
